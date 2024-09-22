@@ -63,7 +63,7 @@ When it comes to pentesting, the operating system doesn't matter: linux is linux
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-6a0dad?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![LineageOS](https://img.shields.io/badge/LineageOS-6a0dad?style=for-the-badge&logo=lineageos&logoColor=white)
 ![GrapheneOS](https://img.shields.io/badge/GrapheneOS-6a0dad?style=for-the-badge&logo=unknown&logoColor=white) 
-
+![FlareVM](https://img.shields.io/badge/FlareVM-6a0dad?style=for-the-badge&logo=windows&logoColor=white)
 ---
 
 
