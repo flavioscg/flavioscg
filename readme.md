@@ -1,6 +1,6 @@
 # Hi, I'm Flavio
 
-[![PGP: F04A749A0DA76B45](https://img.shields.io/badge/PGP-F04A749A0DA76B45-6a0dad?style=for-the-badge&logo=gnupg&logoColor=white)](https://keybase.io/scgflavio)---
+[![PGP: F04A749A0DA76B45](https://img.shields.io/badge/PGP-F04A749A0DA76B45-6a0dad?style=for-the-badge&logo=gnupg&logoColor=white)](https://keybase.io/scgflavio)
 
 ## About Me
 
