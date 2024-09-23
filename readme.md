@@ -32,7 +32,7 @@ For a while, I was a friendly neighborhood computer technician. I've always been
 
 My experiment lab, hidden in the basement like that of a Martian hacker in Area 51 👽😝, is an agnostic environment where technological diversity reigns. I use a mix of desktop computers and laptops running Windows, GNU/Linux, macOS (both native and Hackintosh), and Raspberry Pi. I also have a server running Proxmox, with various virtual machines for my experiments and continuous learning. To top it off, I have routers with OpenWrt/DD-WRT.
 
-When it comes to pentesting, the operating system doesn't matter: linux is linux. However, for convenience and the wide range of preinstalled tools, I often use ParrotOS, which I've seen evolve and have grown fond of over time ❤️.
+When it comes to pentesting, the specific Linux distro doesn’t really matter: linux is linux. That said, for convenience and the extensive set of preinstalled tools, I tend to prefer ParrotOS, a distro I’ve watched evolve and grown particularly fond of over the years ❤️.
 
 ![Whonix](https://img.shields.io/badge/Whonix-6a0dad?style=for-the-badge&logo=whonix&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails-6a0dad?style=for-the-badge&logo=tails&logoColor=white)
