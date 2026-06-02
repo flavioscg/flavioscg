@@ -5,14 +5,9 @@
 
 ---
 
-IT support and admin by day. I work on Microsoft 365 infrastructure, Entra ID, Intune, endpoint hardening, and Linux servers. 
+IT support and admin by day. I work on Microsoft 365 infrastructure, Entra ID, Intune, endpoint hardening, and Linux servers. Security is where I'm heading. Log analysis, OSINT, blue team, with an offensive background built in the lab.
 
-Security is where I'm heading. Log analysis, OSINT, blue team, with an offensive background built in the lab.
-
-I've been around computers since I was 6. The hacker culture of the '80s and '90s shaped how I think.
-
-Curious by nature. Methodical by choice.
-
+I've been around computers since I was 6. The hacker culture of the '80s and '90s shaped how I think. Curious by nature. Methodical by choice.
 
 ---
 
